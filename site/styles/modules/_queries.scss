@@ -1,0 +1,22 @@
+/* 640
+========================================================= */
+@media all and (max-width: 640px) {
+  .flux-hero {
+    h1 {
+      position: absolute;
+      left: 50%;
+      margin-top: 15px;
+      margin-left: -200px;
+      font-family: Asap Condensed;
+      // width: 640px;
+      font-size: em(24);
+      text-align: center;
+      line-height: 30px;
+    }
+
+    h2 {
+      margin-top: 80px;
+      // color: #424242;
+    }
+  }
+}

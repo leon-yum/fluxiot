@@ -1,0 +1,6 @@
+// removes chrome input highlight
+*:focus { outline: 0; }
+
+input[type="text"] {
+  margin: 0px !important;
+}
